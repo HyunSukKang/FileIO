@@ -47,7 +47,7 @@ public class NumbersDoubledReader {
 			System.exit(0);
 		}
 	}
-	
+	// hello for commit
 	public void connectToInputFile() {
 		String inputFileName = getFileName("Enter name of input file:");
 		try {
